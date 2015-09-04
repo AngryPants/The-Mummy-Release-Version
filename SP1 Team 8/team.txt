@@ -1,0 +1,29 @@
+Lim Ngian Xin Terry 150496F
+Credits:
+Boxes
+Collision
+Player Movement
+Gravity
+Side-Scrolling Camera
+Loading Level
+
+Chin Hao Ming 154158D
+Main Menu
+Pause Menu
+Sounds
+Level Selection
+Portals To Next Level
+
+Wayne Aw 152558X
+Keys
+Doors
+Inventory
+Print Messages
+Sounds
+
+Yin Shuyu 150713R
+Teleporters
+Buttons
+Monsters
+Falling Rocks
+Lava
