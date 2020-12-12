@@ -1,17 +1,9 @@
-School: Nanyang Polytechnic
+Nanyang Polytechnic Game Development & Technology Studio Project 1 2015
 
-Course: Game Development & Technology
-
-Project: Studio Project 1
-
-Year: 2015
+Game: The Mummy
 
 Team 8 Members:
-
-Terry Lim
-
-Chin Hao Ming
-
-Wayne Aw
-
-Yin Shu Yu
+1. Terry Lim
+2. Chin Hao Ming
+3. Wayne Aw
+4. Yin Shu Yu
